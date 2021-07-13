@@ -1,0 +1,21 @@
+body {
+    height: 750px;
+    background: antiquewhite;
+    font-size: larger;
+    font-family: monospace;
+}
+ul {
+    background: blueviolet;
+    width: 75%;
+    margin: 20px auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    list-style: none;
+    height: 10%;
+    align-items: center;
+}
+h1 {
+    margin: 10px auto;
+    width: 50%;
+}
